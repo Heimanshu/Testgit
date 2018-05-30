@@ -1,2 +1,2 @@
 this is step 7 and I want to work on it. But I should I proceed.
-this is step 8 and I do want to work on it.
+this is step 8 and I do not want to work on it.
