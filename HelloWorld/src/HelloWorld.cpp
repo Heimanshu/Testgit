@@ -11,6 +11,6 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	cout << "Hello not world!!!" << endl;
+	cout << "Hello not world" << endl; // it will not
 	return 0;
 }
