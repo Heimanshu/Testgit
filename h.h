@@ -1,11 +1,26 @@
 #include <iostream>
 using namespace std;
 
+class prodcuOwner
+{
+	
+public:
+	void outp()
+	{
+		cout << "hello Product owner!!" <<endl;
+	}
+};
+
+
+
 int main() 
 {
-for (int i=0; i<2; i++)
-{	
- cout << "Hello, World!";
+
+    prodcuOwner o1;
+    o1.outp();
     return 0;
 }
+
+
 }
+
